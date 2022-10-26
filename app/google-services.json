@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "253315209945",
+    "firebase_url": "https://mychat-e2ecc.firebaseio.com",
+    "project_id": "mychat-e2ecc",
+    "storage_bucket": "mychat-e2ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253315209945:android:46e46e20ac32feb4",
+        "android_client_info": {
+          "package_name": "com.example.dvpdhruvpatel.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253315209945-534iqteogiqhrv7g1fb6r78o5dpnp8b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dvpdhruvpatel.mychat",
+            "certificate_hash": "fe971bb909ddec93174eab54cb64c7f49698fc2d"
+          }
+        },
+        {
+          "client_id": "253315209945-rqvcp2ti6t71v0a49shbabujrbfebrcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE7RWxZnVbiHgl75p5vhzfTDhCums8I_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253315209945-rqvcp2ti6t71v0a49shbabujrbfebrcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
